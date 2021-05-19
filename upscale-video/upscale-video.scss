@@ -1,11 +1,7 @@
-.controls, .overlay-content, .image-component-video-overlay, play-tag {
+.controls, .overlay-content, .image-component-video-overlay, .play-tag {
 	display: none;
 }
 
 .video-container {
 	height: 50%;
-}
-
-.slide {
-	height: 640px !important;
 }
