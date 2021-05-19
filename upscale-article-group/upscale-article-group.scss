@@ -1,5 +1,9 @@
 .container-content {
 	.grid {
-		justify-content: center;
+		justify-content: space-around;
+
+		.article-card {
+			margin: 20px;
+		}
 	}	
 }
