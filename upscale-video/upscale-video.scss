@@ -3,5 +3,9 @@
 }
 
 .video-container {
-	height: 50%;
+	padding-top: 640px;
+
+	video {
+		height: 640px;
+	}
 }
