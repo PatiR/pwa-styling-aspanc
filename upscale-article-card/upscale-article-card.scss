@@ -1,0 +1,30 @@
+
+.article-card-component-column {
+	margin: 30px;
+}
+
+.image {
+	.img {
+		background-size: auto !important;
+	}
+}
+
+.content {
+	padding: 26px;
+	background-color: #eae3dd;
+
+	.headline {
+		font-size: 2.4rem;
+		padding-bottom: 10px;
+	}
+
+	.excerpt {
+		padding-bottom: 30px;
+		min-height: 75px;
+	}
+
+	.more-button {
+		background-color: #bb714b;
+		width: 50%;
+	}
+}
