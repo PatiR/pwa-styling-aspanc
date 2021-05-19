@@ -1,27 +1,22 @@
+.storybook-content {
+	.overlay {
+		.overlay-content {
+			padding: 40px;
 
-.upscale-large,
-.upscale-extra-large {
-	:host {
-		.storybook-background {
-			background-color: #b59e8b;;
+			.content-headline {
+				font-size: 2.2em;
+				padding-bottom: 10px;
+			}
+
+			.content-subheadline{
+				font-size: 1.4em;
+				padding-bottom: 10px;
+			}
+
+			.storybook-product-content-sale-price {
+				font-size: 1.1em;
+				font-weight: 400;
+			}
 		}
-	}
-}
-.overlay-content {
-	padding: 40px;
-	
-	.content-headline {
-		font-size: 2.2em;
-		padding-bottom: 10px;
-	}
-
-    .content-subheadline{
-		font-size: 1.4em;
-		padding-bottom: 10px;
-	}
-
-	.storybook-product-content-sale-price {
-		font-size: 1.1em;
-		font-weight: 400;
 	}
 }
