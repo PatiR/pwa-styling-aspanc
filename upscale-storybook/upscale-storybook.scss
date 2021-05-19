@@ -1,4 +1,12 @@
 
+.upscale-large,
+.upscale-extra-large {
+	:host {
+		.storybook-background {
+			background-color: #b59e8b;;
+		}
+	}
+}
 .overlay-content {
 	padding: 40px;
 	
